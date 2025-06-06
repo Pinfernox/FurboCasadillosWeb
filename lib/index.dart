@@ -1,0 +1,135 @@
+// Export pages
+export '/pages/inicio/inicio_widget.dart' show InicioWidget;
+export '/pages/mas_o_menos_hechos/demas_paginas/ver_clasificaciones/ver_clasificaciones_widget.dart'
+    show VerClasificacionesWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_goles/clas_goles_widget.dart'
+    show ClasGolesWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_valoracion/clas_valoracion_widget.dart'
+    show ClasValoracionWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_asistencias/clas_asistencias_widget.dart'
+    show ClasAsistenciasWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_victorias/clas_victorias_widget.dart'
+    show ClasVictoriasWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_goles_a_favor/clas_goles_a_favor_widget.dart'
+    show ClasGolesAFavorWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_goles_en_contra/clas_goles_en_contra_widget.dart'
+    show ClasGolesEnContraWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_paradas/clas_paradas_widget.dart'
+    show ClasParadasWidget;
+export '/pages/detalles/detalles_widget.dart' show DetallesWidget;
+export '/pages/lista_jugadores/lista_jugadores_widget.dart'
+    show ListaJugadoresWidget;
+export '/pages/mas_o_menos_hechos/demas_paginas/ver_resultado_partidos/ver_resultado_partidos_widget.dart'
+    show VerResultadoPartidosWidget;
+export '/pages/mas_o_menos_hechos/demas_paginas/partido_copy/partido_copy_widget.dart'
+    show PartidoCopyWidget;
+export '/pages/mas_o_menos_hechos/demas_paginas/inscripcion_jugadores/inscripcion_jugadores_widget.dart'
+    show InscripcionJugadoresWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_regates/clas_regates_widget.dart'
+    show ClasRegatesWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_t_f_a_p/clas_t_f_a_p_widget.dart'
+    show ClasTFAPWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_pases/clas_pases_widget.dart'
+    show ClasPasesWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_rec/clas_rec_widget.dart'
+    show ClasRecWidget;
+export '/pages/mas_o_menos_hechos/carpeta_clasificaciones/clas_t_a_p/clas_t_a_p_widget.dart'
+    show ClasTAPWidget;
+export '/pages/mas_o_menos_hechos/temporadas/otras_temporadas/otras_temporadas_widget.dart'
+    show OtrasTemporadasWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/temporada2324/temporada2324_widget.dart'
+    show Temporada2324Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/temporada2425/temporada2425_widget.dart'
+    show Temporada2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/details2324/details2324_widget.dart'
+    show Details2324Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/lista_jugadores2324/lista_jugadores2324_widget.dart'
+    show ListaJugadores2324Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/lista_jugadores2425/lista_jugadores2425_widget.dart'
+    show ListaJugadores2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/ver_clasificaciones2324/ver_clasificaciones2324_widget.dart'
+    show VerClasificaciones2324Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/ver_clasificaciones2425/ver_clasificaciones2425_widget.dart'
+    show VerClasificaciones2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_asistencias_copy/clas_asistencias_copy_widget.dart'
+    show ClasAsistenciasCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_goles_copy/clas_goles_copy_widget.dart'
+    show ClasGolesCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_goles_a_favor_copy/clas_goles_a_favor_copy_widget.dart'
+    show ClasGolesAFavorCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_goles_en_contra_copy/clas_goles_en_contra_copy_widget.dart'
+    show ClasGolesEnContraCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_paradas_copy/clas_paradas_copy_widget.dart'
+    show ClasParadasCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_derrotas/clas_derrotas_widget.dart'
+    show ClasDerrotasWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_participacion/clas_participacion_widget.dart'
+    show ClasParticipacionWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_valoracion_copy/clas_valoracion_copy_widget.dart'
+    show ClasValoracionCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2324/clasificaciones2324/clas_victorias_copy/clas_victorias_copy_widget.dart'
+    show ClasVictoriasCopyWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/detalles2425/detalles2425_widget.dart'
+    show Detalles2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_asistencias2425/clas_asistencias2425_widget.dart'
+    show ClasAsistencias2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_goles2425/clas_goles2425_widget.dart'
+    show ClasGoles2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_goles_a_favor2425/clas_goles_a_favor2425_widget.dart'
+    show ClasGolesAFavor2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_goles_en_contra2425/clas_goles_en_contra2425_widget.dart'
+    show ClasGolesEnContra2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_paradas2425/clas_paradas2425_widget.dart'
+    show ClasParadas2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_pases2425/clas_pases2425_widget.dart'
+    show ClasPases2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_rec2425/clas_rec2425_widget.dart'
+    show ClasRec2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_regates2425/clas_regates2425_widget.dart'
+    show ClasRegates2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_t_a_p2425/clas_t_a_p2425_widget.dart'
+    show ClasTAP2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_t_f_a_p2425/clas_t_f_a_p2425_widget.dart'
+    show ClasTFAP2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_valoracion2425/clas_valoracion2425_widget.dart'
+    show ClasValoracion2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/clasificaciones2425/clas_victorias2425/clas_victorias2425_widget.dart'
+    show ClasVictorias2425Widget;
+export '/pages/mas_o_menos_hechos/demas_paginas/repeticiones/repeticiones_widget.dart'
+    show RepeticionesWidget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2425/repeticiones2425/repeticiones2425_widget.dart'
+    show Repeticiones2425Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_asistencias2526/clas_asistencias2526_widget.dart'
+    show ClasAsistencias2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_goles2526/clas_goles2526_widget.dart'
+    show ClasGoles2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_goles_a_favor2526/clas_goles_a_favor2526_widget.dart'
+    show ClasGolesAFavor2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_goles_en_contra2526/clas_goles_en_contra2526_widget.dart'
+    show ClasGolesEnContra2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_paradas2526/clas_paradas2526_widget.dart'
+    show ClasParadas2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_pases2526/clas_pases2526_widget.dart'
+    show ClasPases2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_rec2526/clas_rec2526_widget.dart'
+    show ClasRec2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_regates2526/clas_regates2526_widget.dart'
+    show ClasRegates2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_t_a_p2526/clas_t_a_p2526_widget.dart'
+    show ClasTAP2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_t_f_a_p2526/clas_t_f_a_p2526_widget.dart'
+    show ClasTFAP2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_valoracion2526/clas_valoracion2526_widget.dart'
+    show ClasValoracion2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/clas2526/clas_victorias2526/clas_victorias2526_widget.dart'
+    show ClasVictorias2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/detalles2526/detalles2526_widget.dart'
+    show Detalles2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/lista_jugadores2526/lista_jugadores2526_widget.dart'
+    show ListaJugadores2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/repeticiones2526/repeticiones2526_widget.dart'
+    show Repeticiones2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/temporada2526/temporada2526_widget.dart'
+    show Temporada2526Widget;
+export '/pages/mas_o_menos_hechos/temporadas/temp2526/ver_clasificaciones2526/ver_clasificaciones2526_widget.dart'
+    show VerClasificaciones2526Widget;
